@@ -1,4 +1,9 @@
 # git-practice
+이 프로젝트는 git을 연습하기 위한 저장소 입니다.
+
+### Abstraction
+
+### Installation
 
 ### How To Start
 
